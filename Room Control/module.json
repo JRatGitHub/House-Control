@@ -1,0 +1,12 @@
+{
+    "id": "{DE071310-63BE-FC09-9501-062E91919401}",
+    "name": "Room Control",
+    "type": 3,
+    "vendor": "",
+    "aliases": [],
+    "parentRequirements": [],
+    "childRequirements": [],
+    "implemented": [],
+    "prefix": "ROOM",
+    "url": ""
+}
