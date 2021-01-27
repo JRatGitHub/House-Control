@@ -5,6 +5,9 @@
 		{
 			//Never delete this line!
 			parent::Create();
+
+			 //Properties
+			 $this->RegisterPropertyString('InputTriggers', '[]');
 		}
 
 		public function Destroy()
