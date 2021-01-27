@@ -1,5 +1,31 @@
 {
-    "elements": [],
+    "elements": [
+        {
+            "type": "List",
+            "name": "InputTriggers",
+            "caption": "Input Sensors",
+            "add": true,
+            "delete": true,
+            "rowCount": 4,
+            "columns": [
+                {
+                    "name": "VariableID",
+                    "caption": "Variable",
+                    "width": "auto",
+                    "add": 0,
+                    "edit": {
+                        "type": "SelectVariable"
+                    }
+                },
+                {
+                    "name": "Status",
+                    "caption": "Status",
+                    "width": "100px",
+                    "add": "New"
+                }
+            ]
+        }
+    ],
     "actions": [],
     "status": []
 }
